@@ -11,6 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RPetitmay/azure-network-protocols)
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Azure VM](https://github.com/RPetitmay/vpn-setup)
+ 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
  <h2>🤳Connect with me:</h2>
 
