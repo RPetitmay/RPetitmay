@@ -14,7 +14,7 @@
  
 <h2>👨‍💻 System Administration Projects:</h2>
 - <b>Endpoint Management</b> 
-  - [Intune Device Management](https://github.com/RPetitmay/vpn-setup)
+  
  
 
  <h2>🤳Connect with me:</h2>
