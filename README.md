@@ -13,7 +13,7 @@
   - [VPN Setup and Usage within Azure VM](https://github.com/RPetitmay/vpn-setup)
  
 <h2>👨‍💻 System Administration Projects:</h2>
-
+- <b>Endpoint Management</b>
  - [VPN Setup and Usage within Azure VM](https://github.com/RPetitmay/vpn-setup)
  
 
