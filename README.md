@@ -14,6 +14,9 @@
  
 <h2>👨‍💻 System Administration Projects:</h2>
 
+ - [VPN Setup and Usage within Azure VM](https://github.com/RPetitmay/vpn-setup)
+ 
+
  <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Nemesio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
