@@ -12,7 +12,7 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Azure VM](https://github.com/RPetitmay/vpn-setup)
  
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 System Administration Projects:</h2>
 
  <h2>🤳Connect with me:</h2>
 
