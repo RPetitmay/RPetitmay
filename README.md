@@ -17,9 +17,9 @@
   - <b>Endpoint Management</b>
     - [Intune Device Management](https://github.com/RPetitmay/intune-device-management)
   - <b>Group Policy</b>
-    - [Intune Device Management](https://github.com/RPetitmay/intune-device-management)
+    - [Intune Device Management](https://github.com/RPetitmay/group-policy-management)
   - <b>Server Operations</b>
-    - [Intune Device Management](https://github.com/RPetitmay/intune-device-management)
+    - [Intune Device Management](https://github.com/RPetitmay/windows-server-operations)
   
  
 
