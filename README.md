@@ -12,17 +12,6 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Azure VM](https://github.com/RPetitmay/vpn-setup)
  
-<h2>👨‍💻 System Administration Projects:</h2>
-
-  - <b>Endpoint Management</b>
-    - [Intune Device Management](https://github.com/RPetitmay/intune-device-management)
-  - <b>Group Policy</b>
-    - [Group Policy Management](https://github.com/RPetitmay/group-policy-management)
-  - <b>Server Operations</b>
-    - [Windows Server Operations](https://github.com/RPetitmay/windows-server-operations)
-  
- 
-
  <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Nemesio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
