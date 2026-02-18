@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RPetitmay/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RPetitmay/azure-network-protocols)
+  - [Windows Backup & Restore within Azure](https://github.com/RPetitmay/windows-backup-restore)
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Azure VM](https://github.com/RPetitmay/vpn-setup)
  
