@@ -15,7 +15,7 @@
  
  <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Nemesio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nemesio | LinkedIn" width="40px" src="https://img.icons8.com/ios-filled/500/228BE6/linkedin.png" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/rpetitmay
