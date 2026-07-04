@@ -20,7 +20,7 @@
   - [User Identities](https://github.com/RPetitmay/user-identities)
   - [Authentication](https://github.com/RPetitmay/authentication)
   - [Conditional Access](https://github.com/RPetitmay/conditional-access)
-  - [User Identities](https://github.com/RPetitmay/entra-id-identity)
+  - [Workload Identities](https://github.com/RPetitmay/workload-identities)
   - [User Identities](https://github.com/RPetitmay/entra-id-identity)
   
  
