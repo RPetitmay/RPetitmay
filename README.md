@@ -17,7 +17,12 @@
 <h2>👨‍💻 Identity Access & Management Projects:</h2>
 
 - <b>SC-300 Labs</b>
+  - [User Identities](https://github.com/RPetitmay/user-identities)
+  - [Authentication](https://github.com/RPetitmay/authentication)
   - [User Identities](https://github.com/RPetitmay/entra-id-identity)
+  - [User Identities](https://github.com/RPetitmay/entra-id-identity)
+  - [User Identities](https://github.com/RPetitmay/entra-id-identity)
+  
  
  <h2>🤳Connect with me:</h2>
 
