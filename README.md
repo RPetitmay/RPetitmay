@@ -15,6 +15,9 @@
   - [VPN Setup and Usage within Azure VMs](https://github.com/RPetitmay/vpn-setup)
 
 <h2>👨‍💻 Identity Access & Management Projects:</h2>
+
+- <b>SC-300 Labs</b>
+  - [VPN Setup and Usage within Azure VMs](https://github.com/RPetitmay/vpn-setup)
  
  <h2>🤳Connect with me:</h2>
 
