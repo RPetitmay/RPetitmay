@@ -28,7 +28,7 @@
 <b>✅ Certified</b>
 <br/><br/>
 
-[![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/REPLACE_WITH_YOUR_CREDENTIAL_LINK)
+[![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/RobbensPetitmay-5495/C0932678243F502A?sharingId=D8E37DAA0706ED03)
 
 <b>📚 In Progress</b>
 <br/><br/>
