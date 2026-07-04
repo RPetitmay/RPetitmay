@@ -21,7 +21,7 @@
   - [Authentication](https://github.com/RPetitmay/authentication)
   - [Conditional Access](https://github.com/RPetitmay/conditional-access)
   - [Workload Identities](https://github.com/RPetitmay/workload-identities)
-  - [User Identities](https://github.com/RPetitmay/entra-id-identity)
+  - [Identity Governance](https://github.com/RPetitmay/identity-governance)
   
  
  <h2>🤳Connect with me:</h2>
