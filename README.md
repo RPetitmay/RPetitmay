@@ -23,7 +23,18 @@
   - [Workload Identities](https://github.com/RPetitmay/workload-identities)
   - [Identity Governance](https://github.com/RPetitmay/identity-governance)
   
- 
+<h2>🎓 Certifications</h2>
+
+<b>✅ Certified</b>
+<br/><br/>
+
+[![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/REPLACE_WITH_YOUR_CREDENTIAL_LINK)
+
+<b>📚 In Progress</b>
+<br/><br/>
+
+![SC-300](https://img.shields.io/badge/SC--300_Identity_and_Access_Admin-In_Progress-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+![Security+](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-F2C811?style=for-the-badge&logo=comptia&logoColor=black)
  <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Nemesio | LinkedIn" width="40px" src="https://img.icons8.com/ios-filled/500/228BE6/linkedin.png" />][linkedin]
