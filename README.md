@@ -19,7 +19,7 @@
 - <b>SC-300 Labs</b>
   - [User Identities](https://github.com/RPetitmay/user-identities)
   - [Authentication](https://github.com/RPetitmay/authentication)
-  - [User Identities](https://github.com/RPetitmay/conditional-access)
+  - [Conditional Access](https://github.com/RPetitmay/conditional-access)
   - [User Identities](https://github.com/RPetitmay/entra-id-identity)
   - [User Identities](https://github.com/RPetitmay/entra-id-identity)
   
