@@ -13,8 +13,12 @@
   - [Microsoft Office 365 Troubleshooting](https://github.com/RPetitmay/office365-troubleshooting)
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Azure VMs](https://github.com/RPetitmay/vpn-setup)
-- <b>PowerShell Admin</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RPetitmay/configure-ad)
+- <b>Extras</b>
+  - [PowerShell Scripting](https://github.com/RPetitmay/configure-ad)
+  - [Endpoint Device Management](https://github.com/RPetitmay/configure-ad)
+  - [Linux Fundamentals](https://github.com/RPetitmay/configure-ad)
+  - [Monitoring & Alerting](https://github.com/RPetitmay/configure-ad)
+  - [Patch Management](https://github.com/RPetitmay/configure-ad)
   
 
 
