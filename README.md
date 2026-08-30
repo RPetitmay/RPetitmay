@@ -14,7 +14,7 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Azure VMs](https://github.com/RPetitmay/vpn-setup)
 - <b>Extras</b>
-  - [PowerShell Scripting](https://github.com/RPetitmay/configure-ad)
+  - [PowerShell Scripting](https://github.com/RPetitmay/powershell-scripting)
   - [Endpoint Device Management](https://github.com/RPetitmay/configure-ad)
   - [Linux Fundamentals](https://github.com/RPetitmay/configure-ad)
   - [Monitoring & Alerting](https://github.com/RPetitmay/configure-ad)
