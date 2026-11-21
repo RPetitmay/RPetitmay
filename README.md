@@ -32,13 +32,14 @@
 <b>✅ Certified</b>
 <br/><br/>
 
+[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-F2C811?style=for-the-badge&logo=comptia&logoColor=black)](https://www.credly.com/badges/9e258ea5-17d0-4715-892b-4c1bb109c65d)
 [![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/RobbensPetitmay-5495/C0932678243F502A?sharingId=D8E37DAA0706ED03)
 
 <b>📚 In Progress</b>
 <br/><br/>
 
 ![SC-300](https://img.shields.io/badge/SC--300_Identity_and_Access_Admin-In_Progress-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-F2C811?style=for-the-badge&logo=comptia&logoColor=black)
+
  <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Nemesio | LinkedIn" width="40px" src="https://img.icons8.com/ios-filled/500/228BE6/linkedin.png" />][linkedin]
