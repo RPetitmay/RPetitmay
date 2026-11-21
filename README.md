@@ -25,11 +25,7 @@
 <h2>👨‍💻 Identity Access & Management Projects:</h2>
 
 - <b>SC-300 Labs</b>
-  - [User Identities](https://github.com/RPetitmay/user-identities)
-  - [Authentication](https://github.com/RPetitmay/authentication)
-  - [Conditional Access](https://github.com/RPetitmay/conditional-access)
-  - [Workload Identities](https://github.com/RPetitmay/workload-identities)
-  - [Identity Governance](https://github.com/RPetitmay/identity-governance)
+  
   
 <h2>🎓 Certifications</h2>
 
