@@ -13,13 +13,6 @@
   - [Microsoft Office 365 Troubleshooting](https://github.com/RPetitmay/office365-troubleshooting)
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Azure VMs](https://github.com/RPetitmay/vpn-setup)
-- <b>Extras</b>
-  - [PowerShell Scripting](https://github.com/RPetitmay/powershell-scripting)
-  - [Endpoint Device Management](https://github.com/RPetitmay/endpoint-device-management)
-  - [Linux Fundamentals](https://github.com/RPetitmay/linux-fundamentals)
-  - [Monitoring & Alerting](https://github.com/RPetitmay/monitoring-alerting)
-  - [Patch Management](https://github.com/RPetitmay/patch-management)
-  
 
 
 <h2>👨‍💻 Identity Access & Management Projects:</h2>
