@@ -32,7 +32,7 @@
 <b>✅ Certified</b>
 <br/><br/>
 
-[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Certified-F2C811?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/9e258ea5-17d0-4715-892b-4c1bb109c65d)
+[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Certified-0078D4?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/9e258ea5-17d0-4715-892b-4c1bb109c65d)
 [![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/RobbensPetitmay-5495/C0932678243F502A?sharingId=D8E37DAA0706ED03)
 
 <b>📚 In Progress</b>
