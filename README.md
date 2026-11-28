@@ -32,16 +32,16 @@ I'm an **IT / IAM professional** building hands-on experience with identity, acc
 
 ## 💻 Information Technology Projects
 
-| Area | Project | Skills |
-|:--|:--|:--|
-| 🎫 **osTicket** | [Prerequisites & Installation](https://github.com/RPetitmay/osticket-prereqs) | Azure VMs, IIS, RDP |
-| | [Post-Installation Configuration](https://github.com/RPetitmay/post-install-config) | Roles, departments, teams, SLAs |
-| | [Ticket Lifecycle Examples](https://github.com/RPetitmay/ticket-lifecycle) | Intake, assignment, resolution |
-| ☁️ **Microsoft Azure** | [On-premises Active Directory in Azure VMs](https://github.com/RPetitmay/configure-ad) | AD DS, DNS, file shares, permissions, PowerShell |
-| | [NSGs & Inspecting Network Protocols](https://github.com/RPetitmay/azure-network-protocols) | Wireshark, NSGs, SSH, RDP, DNS, ICMP |
-| | [Windows Backup & Restore](https://github.com/RPetitmay/windows-backup-restore) | Recovery Services Vault, disaster recovery |
-| | [Microsoft Office 365 Troubleshooting](https://github.com/RPetitmay/office365-troubleshooting) | Outlook, OneDrive, SharePoint |
-| 🔒 **VPN** | [VPN Setup & Usage in Azure VMs](https://github.com/RPetitmay/vpn-setup) | Proton VPN, IP/geolocation testing |
+| Area | Project | Skills | Status
+|:--|:--|:--|:--|
+| 🎫 **osTicket** | [Prerequisites & Installation](https://github.com/RPetitmay/osticket-prereqs) | Azure VMs, IIS, RDP | 🟢 Complete
+| | [Post-Installation Configuration](https://github.com/RPetitmay/post-install-config) | Roles, departments, teams, SLAs | 🟢 Complete
+| | [Ticket Lifecycle Examples](https://github.com/RPetitmay/ticket-lifecycle) | Intake, assignment, resolution | 🟢 Complete
+| ☁️ **Microsoft Azure** | [On-premises Active Directory in Azure VMs](https://github.com/RPetitmay/configure-ad) | AD DS, DNS, file shares, permissions, PowerShell | 🟢 Complete
+| | [NSGs & Inspecting Network Protocols](https://github.com/RPetitmay/azure-network-protocols) | Wireshark, NSGs, SSH, RDP, DNS, ICMP | 🟢 Complete
+| | [Windows Backup & Restore](https://github.com/RPetitmay/windows-backup-restore) | Recovery Services Vault, disaster recovery | 🟢 Complete
+| | [Microsoft Office 365 Troubleshooting](https://github.com/RPetitmay/office365-troubleshooting) | Outlook, OneDrive, SharePoint | 🟢 Complete
+| 🔒 **VPN** | [VPN Setup & Usage in Azure VMs](https://github.com/RPetitmay/vpn-setup) | Proton VPN, IP/geolocation testing | 🟢 Complete
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
