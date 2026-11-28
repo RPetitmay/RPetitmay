@@ -24,9 +24,9 @@ I'm an **IT / IAM professional** building hands-on experience with identity, acc
 
 ## 🔐 Identity & Access Management Projects
 
-| Lab | Focus | Status |
+| Project | Focus | Status |
 |:--|:--|:--:|
-| **SC-300 Labs** | User identities, authentication, Conditional Access, workload identities, identity governance | 🟡 In progress |
+| [Okta SSO & Identity Lifecycle](https://github.com/RPetitmay/iam-sso-lifecycle-lab) |OIDC, MFA policy, group-based access, and troubleshooting | 🟡 In progress |
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
