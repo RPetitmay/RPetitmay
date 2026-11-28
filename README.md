@@ -26,7 +26,7 @@ I'm an **IT / IAM professional** building hands-on experience with identity, acc
 
 | Project | Focus | Status |
 |:--|:--|:--:|
-| [Okta SSO & Identity Lifecycle](https://github.com/RPetitmay/iam-sso-lifecycle-lab) |OIDC, MFA policy, group-based access, and troubleshooting | 🟡 In progress |
+| [IAM SSO & Identity Lifecycle](https://github.com/RPetitmay/iam-sso-lifecycle-lab) | OIDC, MFA policy, group-based access, and troubleshooting | 🟡 In progress |
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
